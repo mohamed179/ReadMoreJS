@@ -1,0 +1,9 @@
+.read-more-td {
+    width: 30%;
+}
+.read-more-show {
+    display: initial;
+}
+.read-more-hide {
+    display: none;
+}

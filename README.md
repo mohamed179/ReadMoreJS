@@ -1,7 +1,7 @@
 # Read More in Table
 
 * [Introduction](#introduction)
-* [Introduction](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Options](#options)
   * [Columns](#columns)

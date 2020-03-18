@@ -38,8 +38,8 @@ class ReadMoreTable {
                     content += ' <span class="read-more-text read-more-hide">';
                     content += contentWords.slice(maxWords).join(' ');
                     content += '</span>';
-                    content += '<a href="#" class="read-more-link read-more-show" onclick="readMore(this)">read more</a>';
-                    content += '<a href="#" class="read-less-link read-more-hide" onclick="readMore(this)"><br>read less</a>';
+                    content += '<a class="read-more-link read-more-show" onclick="readMore(this)">read more</a>';
+                    content += '<a class="read-less-link read-more-hide" onclick="readMore(this)"><br>read less</a>';
                     tdElement.innerHTML = content;
                     tdElement.classList.add('read-more-td');
                 }
